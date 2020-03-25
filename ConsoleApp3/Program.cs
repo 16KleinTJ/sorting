@@ -14,6 +14,7 @@ namespace SamplePrograms
         static void Main(string[] args)
         {
             int i;
+            
             unsortedList = new int[10];
             sortedList = new int[10];
 
